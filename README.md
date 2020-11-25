@@ -13,5 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 [![](https://raw.githubusercontent.com/KoukiIijima/KoukiIijima/main/profile-summary-card-output/solarized/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
