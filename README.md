@@ -15,6 +15,4 @@ Here are some ideas to get you started:
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=koki-2424&theme=vue)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=koki-2424&layout=compact)](https://github.com/koki-2424/github-readme-stats)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=koki-2424&show_icons=true&theme=radical)
+![](https://raw.githubusercontent.com/vn7n24fzkq/koki-2424/master/profile-summary-card-output/solarized/1-repos-per-language.svg)
