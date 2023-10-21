@@ -13,4 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=koki-2424&theme=vue)
+# Hi there 👋
+
+I'm Kouki Iijima, a Frontend Engineer from Japan. I'm passionate about exploring ways to improve the developer experience and enjoy working on coding.
